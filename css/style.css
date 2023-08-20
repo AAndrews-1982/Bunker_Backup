@@ -272,8 +272,8 @@ button {
 }
 
 .logo a img {
-     width:  auto; /* Adjust this value for logo width */
-     height: auto;
+     width:  150px; /* Adjust this value for logo width */
+     height: 75px;
 }
 
 
