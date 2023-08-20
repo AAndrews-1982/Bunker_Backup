@@ -257,7 +257,7 @@ button {
 
 .header {
      width: 100%;
-     position: absolute;
+     position: relative;
      padding-left: 0;
 }
 
