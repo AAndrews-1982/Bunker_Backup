@@ -272,7 +272,7 @@ button {
 }
 
 .logo a img {
-     width:  absolute; /* Adjust this value for logo width */
+     width:  relative; /* Adjust this value for logo width */
      height: 70px;
 }
 
