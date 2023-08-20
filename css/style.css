@@ -509,6 +509,10 @@ ul.social_icon li a:hover {
      height: 40px;
      padding: 4px 0;
      margin-top: 15px;
+     
+     .box img {
+          max-width: 70%;
+          height: auto;
 }
 
 
